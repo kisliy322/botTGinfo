@@ -1,5 +1,5 @@
 import telebot
-bot = telebot.TeleBot('1241243055:AAEnxVdqN2zoybv28F4PbiRBRIC53FOyUnw')
+bot = telebot.TeleBot('')# your api tg bot
 name = ''
 surname = ''
 age = 0
